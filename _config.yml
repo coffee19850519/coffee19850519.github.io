@@ -84,7 +84,7 @@ publication_category:
   conference:
     title: 'Selected Conference Papers'
   poster:
-      title: 'Selected Posters'
+    title: 'Selected Posters'
   preprint:
     title: 'Recent Preprints'
 
