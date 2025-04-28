@@ -72,8 +72,10 @@ Grants
   * Scientific Research Funding for Central Universities, China
   * ¥ 80,000
 
-Publications
+Selected Publications 
 ======
+  You can find all full publication list on my [Google Schole profile](https://scholar.google.com/citations?user=BEd1TywAAAAJ&hl=en)
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
