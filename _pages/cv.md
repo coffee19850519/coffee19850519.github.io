@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D. candidate in the Department of Electrical Engineering and Computer Science, University of Missouri-Columbia, December 2025 (*expected*)
-* Ph.D. in the Department of Bioinformatics, Jilin University, June 2015 
-* M.S. in the Department of Bioinformatics, Jilin University, June 2010
-* B.S. in the College of Computer Science and Technology, June 2007
+* Ph.D. candidate in the Department of Electrical Engineering and Computer Science, College of Engineering, University of Missouri-Columbia, USA, December 2025 (*expected*)
+* Ph.D. in the Department of Bioinformatics, College of Computer Science and Technology, Jilin University, China, June 2015 
+* M.S. in the Department of Bioinformatics, College of Computer Science and Technology, Jilin University, China, June 2010
+* B.S. in the College of Computer Science and Technology, Jilin University, China, June 2007
 
 Work experience
 ======
@@ -37,7 +37,6 @@ Work experience
   * Department of Computer Science, School of Information Science and Technology
   * Northeast Normal University
   * Master's advisor
-
 
 
 Grants

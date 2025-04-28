@@ -1,9 +1,9 @@
 ---
 title: "scPEFT: Parameter Efficient Fine-Tuning single-cell Large Language Models"
-excerpt: "A framework that efficiently calibrates general scLLMs for out-of-context use cases <br/><img src='/images/scPEFT_thumbnail.jpg'>"
+excerpt: "A framework that efficiently calibrates general scLLMs for out-of-context use cases <br/><img src='/images/scPEFT.jpg'>"
 collection: portfolio
 ---
-![scPEFT: Parameter Efficient Fine-Tuning single-cell Large Language Models](images/scPEFT.jpg)
+![scPEFT: Parameter Efficient Fine-Tuning single-cell Large Language Models](../images/scPEFT.jpg)
 
 Description
 ======
