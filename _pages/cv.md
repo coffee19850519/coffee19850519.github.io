@@ -7,9 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
-[Full CV](../files/CV_latest.pdf)
+{% include base_path %} [Full version](../files/CV_latest.pdf)
 
 Education
 ======
