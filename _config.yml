@@ -26,9 +26,9 @@ author:
   name             : "Fei He"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "University of Missouri"
-  uri              : "https://missouri.edu/"
+  location         : "https://maps.app.goo.gl/uwg8TiZQ57mzLrgm6"
+  employer         : "https://missouri.edu/"
+  uri              : ""
   email            : "hefe@umsystem.edu" 
 
   # Academic websites
