@@ -2,7 +2,7 @@
 title: "Paper Title Number 3"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/Predicting the location of coordinated metal ion-ligand binding sites using geometry-aware graph neural networks
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2015-10-01
 venue: 'Journal 1'
