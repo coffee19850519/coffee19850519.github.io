@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. candidate in Engineering, Department of Electrical Engineering and Computer Science, College of Engineering, University of Missouri-Columbia, December 2025 (expected)
+* Ph.D Engineering
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
 
