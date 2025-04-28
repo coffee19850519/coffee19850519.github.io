@@ -9,9 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+[full CV](../assets/CV_latest.pdf)
+
 Education
 ======
-* Ph.D. candidate in the Department of Electrical Engineering and Computer Science, University of Missouri-Columbia, December 2025 (expected)
+* Ph.D. candidate in the Department of Electrical Engineering and Computer Science, University of Missouri-Columbia, December 2025 (*expected*)
 * Ph.D. in the Department of Bioinformatics, Jilin University, June 2015 
 * M.S. in the Department of Bioinformatics, Jilin University, June 2010
 * B.S. in the College of Computer Science and Technology, June 2007
