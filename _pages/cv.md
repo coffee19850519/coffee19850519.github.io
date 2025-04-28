@@ -11,36 +11,66 @@ redirect_from:
 
 Education
 ======
-* Ph.D. candidate in Engineering, Department of Electrical Engineering and Computer Science, College of Engineering, University of Missouri-Columbia, December 2025 (expected)
-* Ph.D Engineering
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. candidate in the Department of Electrical Engineering and Computer Science, University of Missouri-Columbia, December 2025 (expected)
+* Ph.D. in the Department of Bioinformatics, Jilin University, June 2015 
+* M.S. in the Department of Bioinformatics, Jilin University, June 2010
+* B.S. in the College of Computer Science and Technology, June 2007
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* January 2023 – present: Graduate Research
+  * Department of Electrical Engineering and Computer Science, College of Engineering
+  * University of Missouri-Columbia
+  * Advisor: [Dong Xu](https://engineering.missouri.edu/faculty/dong-xu/)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* July 2022 – present: Associate Professor
+  * Department of Computer Science, School of Information Science and Technology
+  * Northeast Normal University
+  * Master's advisor
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+* October 2018 – January 2021: Visiting Scholar
+  * Bond Life Science Center
+  * University of Missouri-Columbia
+  * Visiting Scholar
+
+* August 2015 – June 2022: Lecturer
+  * Department of Computer Science, School of Information Science and Technology
+  * Northeast Normal University
+  * Master's advisor
+
+
+
+Grants
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2021-2024: Protein Docking Conformation Ranking Based on Capsule Networks
+  * Principal Investigator
+  * General fund
+  * Jilin Provincial Natural Science Foundation, China
+  * ¥ 100,000
+
+* 2019-2021: Target Protein–Ligand Complex Activity Prediction Integrating Multi-view 3D Depth Descriptors
+  * Principal Investigator
+  * Young Scientists Fund
+  * **National Natural Science Foundation of China**
+  * ¥ 260,000
+
+* 2019-2020: Hybrid Deep Learning Model for Dynamic Protein Interaction Networks 
+  * Principal Investigator
+  * Scientific Research Project
+  * Jilin Provincial Department of Education, China
+  * ¥ 25,000
+
+* 2017-2018: Deep Learning Network with Adaptive and Self-Learning Characteristics for Texture Analysis
+  * Principal Investigator
+  * Outstanding Youth Fund
+  * Jilin Provincial Natural Science Foundation, China
+  * ¥ 80,000
+
+* 2016-2017: Protein Docking Conformation Ranking Based on Capsule Networks
+  * Principal Investigator
+  * Youth Exploration and Development Fund
+  * Scientific Research Funding for Central Universities, China
+  * ¥ 80,000
 
 Publications
 ======
@@ -60,6 +90,27 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service
 ======
-* Currently signed in to 43 different slack teams
+* Journal Reviewer
+  * *Nature Communications, Pattern Recognition, Briefings in Bioinformatics, Neurocomputing, International Journal of Biological Macromolecules, Life Sciences, Computers in Biology and Medicine, BMC Medical Informatics and Decision Making, Scientific Reports, Journal of Imaging Informatics in Medicine, Engineering Applications of Artificial Intelligence, Digital Chinese Medicine*, etc.	
+
+* Conference Reviewer
+  * *IEEE International Conference on Bioinformatics and Biomedicine* (2019, 2023-2024, co-reviewed with Prof.[Trupti Joshi](https://engineering.missouri.edu/faculty/trupti-joshi/))
+
+* Grant Reviewer
+  * National Natural Science Foundation of China (2024).
+
+Skills
+======
+* Programming
+  * Python, R, C#/C++/C
+  
+* Data Analysis
+  * numPy, Pandas, SciPy, scikit-learn, Matplotlib, Scanpy, Seurat, BioPython, rdkit, AlphaFold, LIME, SHAP
+
+* Model Construction
+  * PyTorch, HuggingFace Transformer, FlashAttention, TensorFlow, Keras 
+
+* Languages
+  * English (fluent), Mandarin (native), Cantonese (native)
