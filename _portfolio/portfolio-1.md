@@ -3,9 +3,8 @@ title: "scPEFT: Parameter Efficient Fine-Tuning single-cell Large Language Model
 excerpt: "A framework that efficiently calibrates general scLLMs for out-of-context use cases <br/><img src='/images/scPEFT.jpg'>"
 collection: portfolio
 ---
-![scPEFT: Parameter Efficient Fine-Tuning single-cell Large Language Models](../images/scPEFT.jpg)
 
-Description
+Motivation
 ======
 Recent advancements in single-cell Large Language Models (scLLMs) show promise in a variety of tasks within familiar cellular contexts and many scLLMs have been released. 
 However, in out-of-context scenarios, such as unseen diseases, treatments, uncharacterized cell populations, or across species, scLLMs often perform unreliably, leading to misinterpretations.
@@ -16,12 +15,42 @@ It enables context-specific single-cell analyses without requiring prohibitively
 Additionally, by analyzing its attention mechanism, scPEFT facilitates disease-specific biomarker detection for particular cell types and states, enhancing the clinical applications of scLLMs. 
 This novel utility paradigm can also be extended to other biological and biomedical foundation models. 
 
+![scPEFT: Parameter Efficient Fine-Tuning single-cell Large Language Models](/images/scPEFT.jpg)
+
+
+Computational demands reduction for adaptation of scLLMs
+======
+
+
+Mitigating catastrophic forgetting
+======
+
+
+Biomarker insights
+======
+
+
+Cross-species Transfer
+======
+
+
+Uncharacterized cell population detection
+======
+
+
 GitHub link
 ======
 https://github.com/coffee19850519/scPEFT
 
 Related Publications
 ======
-Harnessing the Power of Single-Cell Large Language Models with Parameter Efficient Fine-Tuning using scPEFT
+1. Harnessing the Power of Single-Cell Large Language Models with Parameter Efficient Fine-Tuning using scPEFT
 Fei He, Ruixin Fei, Jordan E. Krull, Xinyu Zhang, Mingyue Gao, Li Su, Yibo Chen, Yang Yu, Jinpu Li, Baichuan Jin, Yuzhou Chang, Anjun Ma, Qin Ma, Dong Xu
 bioRxiv 2025.04.21.649754; doi: https://doi.org/10.1101/2025.04.21.649754
+
+2. 
+
+Collaborators
+======
+Jordan E. Krull, Yuzhou Chang, Anjun Ma, Qin Ma @ []()
+Others from [DBL]()
