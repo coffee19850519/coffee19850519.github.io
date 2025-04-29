@@ -40,17 +40,19 @@ Uncharacterized cell population detection
 
 GitHub link
 ======
-https://github.com/coffee19850519/scPEFT
+[https://github.com/coffee19850519/scPEFT](https://github.com/coffee19850519/scPEFT)
 
 Related Publications
 ======
 1. Harnessing the Power of Single-Cell Large Language Models with Parameter Efficient Fine-Tuning using scPEFT
 Fei He, Ruixin Fei, Jordan E. Krull, Xinyu Zhang, Mingyue Gao, Li Su, Yibo Chen, Yang Yu, Jinpu Li, Baichuan Jin, Yuzhou Chang, Anjun Ma, Qin Ma, Dong Xu
-bioRxiv 2025.04.21.649754; doi: https://doi.org/10.1101/2025.04.21.649754
+bioRxiv 2025.04.21.649754; [Full text](https://www.biorxiv.org/content/10.1101/2025.04.21.649754v1.full.pdf)
 
-2. 
+2. Parameter-Efficient Fine-Tuning Enhances Adaptation of Single Cell Large Language Model for Cell Type Identification
+Fei He, Ruixin Fei, Mingyue Gao, Li Su, Xinyu Zhang, Dong Xu
+bioRxiv 2024.01.27.577455; [Full text](https://www.biorxiv.org/content/10.1101/2024.01.27.577455v1.full.pdf)
 
 Collaborators
 ======
-Jordan E. Krull, Yuzhou Chang, Anjun Ma, Qin Ma @ []()
-Others from [DBL]()
+Jordan E. Krull, Yuzhou Chang, Anjun Ma, Qin Ma @ [BMBL](https://u.osu.edu/bmbl/lab-members/current-people/)
+Others from [DBL](https://digbio.missouri.edu/our-team/)
