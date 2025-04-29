@@ -6,53 +6,38 @@ collection: portfolio
 
 Motivation
 ======
-Recent advancements in single-cell Large Language Models (scLLMs) show promise in a variety of tasks within familiar cellular contexts and many scLLMs have been released. 
-However, in out-of-context scenarios, such as unseen diseases, treatments, uncharacterized cell populations, or across species, scLLMs often perform unreliably, leading to misinterpretations.
-Current strategies to address this challenge primarily focus on scaling up pretraining data and model parameters, which demand significant computational resources and extensive data collection, restricting accessibility for most users of scLLMs with limited resources. 
-Here, we introduce scPEFT (single-cell Parameter-Efficient Fine-Tuning), a novel framework that efficiently calibrates general scLLMs for out-of-context use cases by integrating low-dimensional, learnable, and pluggable adapters. 
-scPEFT democratizes scLLMs, making them accessible to a broader research community, including those with limited resources. 
-It enables context-specific single-cell analyses without requiring prohibitively expensive computational power while maintaining generalizable performance and interpretable insights. 
-Additionally, by analyzing its attention mechanism, scPEFT facilitates disease-specific biomarker detection for particular cell types and states, enhancing the clinical applications of scLLMs. 
-This novel utility paradigm can also be extended to other biological and biomedical foundation models. 
 
-![pathCLIP overview](/images/pathCLIP_overview.pdf)
+Overview of proposed pipeline. 
+This figure presents an overview of our pipeline, consisting of three key modules. On the left, the image module extracts visual embeddings from pathway figures. On the right, the text module generates text embeddings from the article text. In the middle, our image-text contrastive learning module (pathCLIP) is shown, which facilitates gene entity recognition and relation extraction tasks.
 
-
-Computational demands reduction for adaptation of scLLMs
+Fine-Tuned BioBERT Leverage on Tasks of NER and RE
 ======
+Text BioBERT fine-Tuning details. (a) Structure of text data used for gene entity detection and relation extraction tasks, highlighting key information related to genes and relations. (b) The process of pre-training and fine-tuning the BioBERT models. These models are employed to extract text features from sentences describing genes and relations, respectively.
 
 
-Mitigating catastrophic forgetting
+Contrastive Learning Training on Pathway Figures and Their Text Descriptions
 ======
+Training and inference processes of pathCLIP. (a) pathCLIP for gene entity detection and its integration with CLIP. (b) pathCLIP for relation extraction and its integration with CLIP for relation extraction.
 
 
-Biomarker insights
+Gene Recognition By pathCLIP
 ======
+pathCLIP results for entity detection. (a) Embedding distribution of ResNet50 on entity detection images. (b) Embedding distribution of pathCLIP-ResNet50 on entity detection images. (c) Embedding distributions of pathCLIP on entity detection images and text. (d) Confusion matrix for entity detection by pathCLIP. (e) ROC curve of pathCLIP on entity detection, including five gene types as examples.
 
-
-Cross-species Transfer
+Relation Extraction By pathCLIP
 ======
-
-
-Uncharacterized cell population detection
-======
-
+pathCLIP results for relation extraction. (a) Embedding distribution of ResNet50 on relation extraction images. (b) Embedding distribution of pathCLIP-ResNet50 on relation extraction images. (c) Embedding distributions of pathCLIP on relation extraction images and text. (h) Confusion matrix for relation extraction by pathCLIP. (e) ROC curve, including pathCLIP, original ResNet, and fine-tuned ResNet.
 
 GitHub link
 ======
-[https://github.com/coffee19850519/scPEFT](https://github.com/coffee19850519/scPEFT)
+[https://github.com/yangyang-69/pathCLIP](https://github.com/yangyang-69/pathCLIP)
 
-Related Publications
+Related Publication
 ======
-1. Harnessing the Power of Single-Cell Large Language Models with Parameter Efficient Fine-Tuning using scPEFT
-Fei He, Ruixin Fei, Jordan E. Krull, Xinyu Zhang, Mingyue Gao, Li Su, Yibo Chen, Yang Yu, Jinpu Li, Baichuan Jin, Yuzhou Chang, Anjun Ma, Qin Ma, Dong Xu
-bioRxiv 2025.04.21.649754; [Full text](https://www.biorxiv.org/content/10.1101/2025.04.21.649754v1.full.pdf)
+**F. He** et al., "pathCLIP: Detection of Genes and Gene Relations From Biological Pathway Figures Through Image-Text Contrastive Learning," in *IEEE Journal of Biomedical and Health Informatics*, vol. 28, no. 8, pp. 5007-5019; [Full text](https://www.biorxiv.org/content/10.1101/2023.10.31.564859v1.full.pdf)
 
-2. Parameter-Efficient Fine-Tuning Enhances Adaptation of Single Cell Large Language Model for Cell Type Identification
-Fei He, Ruixin Fei, Mingyue Gao, Li Su, Xinyu Zhang, Dong Xu
-bioRxiv 2024.01.27.577455; [Full text](https://www.biorxiv.org/content/10.1101/2024.01.27.577455v1.full.pdf)
 
 Collaborators
 ======
-* Jordan E. Krull, Yuzhou Chang, Anjun Ma, Qin Ma @ [BMBL](https://u.osu.edu/bmbl/lab-members/current-people/)
+* Yibo Chen, Richard D. Hammer, Mihail Popescu @ [MISL](https://medicine.missouri.edu/centers-institutes-labs/medical-intelligent-systems-lab)
 * Others from [DBL](https://digbio.missouri.edu/our-team/)
