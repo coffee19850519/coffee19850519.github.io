@@ -54,5 +54,5 @@ bioRxiv 2024.01.27.577455; [Full text](https://www.biorxiv.org/content/10.1101/2
 
 Collaborators
 ======
-Jordan E. Krull, Yuzhou Chang, Anjun Ma, Qin Ma @ [BMBL](https://u.osu.edu/bmbl/lab-members/current-people/)
-Others from [DBL](https://digbio.missouri.edu/our-team/)
+* Jordan E. Krull, Yuzhou Chang, Anjun Ma, Qin Ma @ [BMBL](https://u.osu.edu/bmbl/lab-members/current-people/)
+* Others from [DBL](https://digbio.missouri.edu/our-team/)

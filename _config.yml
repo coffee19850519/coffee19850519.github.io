@@ -9,12 +9,12 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Fei He's website"
+title                    : "Fei He's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Fei He"
 description              : &description "personal description"
 url                      : "https://coffee19850519.github.io/"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/portfolio" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
