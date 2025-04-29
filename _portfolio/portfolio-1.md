@@ -26,19 +26,18 @@ By constraining domain adaptation to a separate lower dimensional subspace, scPE
 
 Mitigating catastrophic forgetting
 ======
-
+scPEFT re-parameterizes original scLLM model parameters with low-dimensional proxies, fundamentally differing from traditional fine-tuning. The plug-in adapters enable efficient customization of scLLMs without overwriting the original scLLM model parameters, reducing the risk of overfitting to noisy or biased task-specific data while mitigating catastrophic forgetting of pre-learned knowledge. This approach improves performance by 5-15% across diverse out-of-context scenarios, including disease-specific datasets, cross-species comparisons, and under-characterized cell groups
+![Mitigating catastrophic forgetting by scPEFT](/images/scPEFT_catastrophic.jpg)
 
 Biomarker insights
 ======
-
+scPEFT provides unique insights for biomedical research by ensuring that the model's attention scores align closely with pre-learned general gene activities and condition-specific requirements. This delivers COVID-infection-specific cell-state-associated genes and distinguishing phenotypical subpopulations from CD34+ enriched and bone marrow samples that other tools fail to discern. 
+![Biomarker insights provided by scPEFT](/images/scPEFT_biomarker.jpg)
 
 Cross-species Transfer
 ======
-
-
-Uncharacterized cell population detection
-======
-
+scPEFT enables the effective transfer of scLLMs, initially trained on human data, to other animal species beyond their pretrained corpus. This approach bridges the species divide by capturing a shared embedding subspace between pre-trained human data and various animal species, facilitating integrated analyses across diverse organisms. 
+![cross-species transfer by scPEFT](/images/scPEFT_cross_species.jpg)
 
 GitHub link
 ======
