@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Fei He"
   pronouns         : # example: "she/her"  
-  bio              : "PhD candidate in the Uniersity of Missouri"
+  bio              : "PhD candidate in the University of Missouri"
   location         : "1201 Rollins St, Columbia, MO 65211"
   employer         : "University of Missouri"
   uri              : ""
@@ -92,7 +92,7 @@ publication_category:
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false      #change to true to add link to talkmap on talks page
 comments:
