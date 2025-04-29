@@ -20,9 +20,7 @@ This novel utility paradigm can also be extended to other biological and biomedi
 
 Computational demands reduction for adaptation of scLLMs
 ======
-By constraining domain adaptation to a separate lower dimensional subspace, scPEFT reduces parameter tuning by at least 96% and lowers Graphics Processing Unit (GPU) memory costs by more than 50%, making scLLMs significantly accessible for research groups operating on limited resources.
 
-![Efficiency Analysis of scPEFT](/images/scPEFT_efficiency.jpg)
 
 Mitigating catastrophic forgetting
 ======
