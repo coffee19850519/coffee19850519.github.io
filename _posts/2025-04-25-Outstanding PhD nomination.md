@@ -1,7 +1,7 @@
 ---
 title: 'Outstanding PhD nomination'
 date: 2025-04-25
-permalink: /posts/2025-04-25
+permalink: /posts/2025/04/Outstanding PhD nomination
 tags:
   - Nomination
   - Outstanding PhD Award

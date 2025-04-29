@@ -1,7 +1,7 @@
 ---
 title: 'Upcoming Role'
 date: 2025-04-24
-permalink: /posts/2025-04-24
+permalink: /posts/2025/04/Upcoming Role
 tags:
   - Internship
   - Summer Program
