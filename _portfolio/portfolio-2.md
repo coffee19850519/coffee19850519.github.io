@@ -1,6 +1,6 @@
 ---
-title: "scPEFT: Parameter Efficient Fine-Tuning single-cell Large Language Models"
-excerpt: "A framework that efficiently calibrates general scLLMs for out-of-context use cases <br/><img src='/images/scPEFT.jpg'>"
+title: "pathCLIP: Detection of genes and gene relations from biological pathway figures through image-text contrastive learning"
+excerpt: "A pathway figure curation system for identifying genes and gene relations from pathway figures. <br/><img src='/images/pathCLIP_overview.pdf'>"
 collection: portfolio
 ---
 
@@ -15,7 +15,7 @@ It enables context-specific single-cell analyses without requiring prohibitively
 Additionally, by analyzing its attention mechanism, scPEFT facilitates disease-specific biomarker detection for particular cell types and states, enhancing the clinical applications of scLLMs. 
 This novel utility paradigm can also be extended to other biological and biomedical foundation models. 
 
-![scPEFT: Parameter Efficient Fine-Tuning single-cell Large Language Models](/images/scPEFT.jpg)
+![pathCLIP overview](/images/pathCLIP_overview.pdf)
 
 
 Computational demands reduction for adaptation of scLLMs
