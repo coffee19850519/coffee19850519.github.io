@@ -13,4 +13,4 @@ With a Ph.D. in Bioinformatics and a second Ph.D. in progress in Computer Scienc
 
 You can find my full CV [here](/files/CV_latest.pdf).
 
-[Email](mailto:hefe@umsystem.edu)/[Wechat]()/[WhatsApp]()
+Contact me: [Email](mailto:hefe@umsystem.edu) / [Wechat](/images/Wechat.jpg) / [WhatsApp](/images/WhatsApp.jpg)
