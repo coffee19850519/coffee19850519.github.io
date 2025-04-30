@@ -100,7 +100,7 @@ Service
   * *IEEE International Conference on Bioinformatics and Biomedicine* (2019, 2023-2024, co-reviewed with Prof.[Trupti Joshi](https://engineering.missouri.edu/faculty/trupti-joshi/))
 
 * Grant Reviewer
-  * National Natural Science Foundation of China (2024).
+  * National Natural Science Foundation of China (2024-2025).
 
 Skills
 ======
