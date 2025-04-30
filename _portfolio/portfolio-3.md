@@ -46,7 +46,7 @@ GitHub link
 
 Related Publications
 ======
-<sup>$</sup>Chang, Yuzhou, <font color= #FFA500>**Fei He** </font>, Juexin Wang, Shuo Chen, Jingyi Li, Jixin Liu, Yang Yu et al. "Define and visualize pathological architectures of human tissues from spatially resolved transcriptomics using deep learning." _Computational and structural biotechnology journal_ 20 (2022): 4600-4617.
+<sup>$</sup>Chang, Yuzhou, **Fei He**, Juexin Wang, Shuo Chen, Jingyi Li, Jixin Liu, Yang Yu et al. "Define and visualize pathological architectures of human tissues from spatially resolved transcriptomics using deep learning." _Computational and structural biotechnology journal_ 20 (2022): 4600-4617.
 
 <sup>$</sup>Yuzhou Chang, Fei He and Juexin Wang contributed equally to the paper as the first authors.
  

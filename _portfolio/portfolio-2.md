@@ -58,7 +58,7 @@ GitHub link
 
 Related Publication
 ======
-**<font color= 	#FFA500>F. He</font>** et al., "pathCLIP: Detection of Genes and Gene Relations From Biological Pathway Figures Through Image-Text Contrastive Learning," in *IEEE Journal of Biomedical and Health Informatics*, vol. 28, no. 8, pp. 5007-5019; [Full text](https://www.biorxiv.org/content/10.1101/2023.10.31.564859v1.full.pdf)
+**F. He** et al., "pathCLIP: Detection of Genes and Gene Relations From Biological Pathway Figures Through Image-Text Contrastive Learning," in *IEEE Journal of Biomedical and Health Informatics*, vol. 28, no. 8, pp. 5007-5019; [Full text](https://www.biorxiv.org/content/10.1101/2023.10.31.564859v1.full.pdf)
 
 
 Collaborators
