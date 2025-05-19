@@ -1,5 +1,5 @@
 ---
-title: 'Outstanding PhD winner'
+title: 'Honored to receive the Outstanding PhD Award'
 date: 2025-05-06
 permalink: /posts/2025/05/Outstanding PhD winner
 tags:
