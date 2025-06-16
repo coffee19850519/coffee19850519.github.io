@@ -1,6 +1,6 @@
 ---
 title: 'Invited talk to SIMIS'
-date: 2025-04-24
+date: 2025-06-10
 permalink: /posts/2025/06/Invited Talk
 tags:
   - Talk
