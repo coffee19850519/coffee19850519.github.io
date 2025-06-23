@@ -23,7 +23,7 @@ Work experience
   * University of Missouri-Columbia
   * Advisor: [Dong Xu](https://engineering.missouri.edu/faculty/dong-xu/)
 
-* July 2022 – present: Associate Professor
+* July 2022 – December 2022: Associate Professor
   * Department of Computer Science, School of Information Science and Technology
   * Northeast Normal University
   * Master's advisor
