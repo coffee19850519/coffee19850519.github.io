@@ -75,7 +75,7 @@ Selected Publications
 ======
   
   You can find all full publication list on my [Google Schole profile](https://scholar.google.com/citations?user=BEd1TywAAAAJ&hl=en)
-  **h-index:18, i10-index: 28, citation > 1200** 
+  **h-index:18, i10-index: 29, citation > 1200** 
 
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
