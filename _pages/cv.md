@@ -28,10 +28,6 @@ Work experience
   * Northeast Normal University
   * Master's advisor
 
-* October 2018 – January 2021: Visiting Scholar
-  * Bond Life Science Center
-  * University of Missouri-Columbia
-  * Visiting Scholar
 
 * August 2015 – June 2022: Lecturer
   * Department of Computer Science, School of Information Science and Technology
@@ -75,7 +71,7 @@ Selected Publications
 ======
   
   You can find all full publication list on my [Google Schole profile](https://scholar.google.com/citations?user=BEd1TywAAAAJ&hl=en)
-  **h-index:18, i10-index: 31, citation > 1300** 
+  **h-index:20, i10-index: 32, citation > 1400** 
 
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
