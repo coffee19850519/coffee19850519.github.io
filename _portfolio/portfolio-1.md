@@ -46,8 +46,7 @@ GitHub link
 Related Publications
 ======
 1. **Fei He**, Ruixin Fei, Jordan E. Krull, Xinyu Zhang, Mingyue Gao, Li Su, Yibo Chen, Yang Yu, Jinpu Li, Baichuan Jin, Yuzhou Chang, Anjun Ma, Qin Ma, Dong Xu.
-Harnessing the Power of Single-Cell Large Language Models with Parameter Efficient Fine-Tuning using scPEFT.
-*bioRxiv* 2025.04.21.649754; Under external review at ***Nature Machine Intelligence*** [Full text](https://www.biorxiv.org/content/10.1101/2025.04.21.649754v1.full.pdf)
+Harnessing the Power of Single-Cell Large Language Models with Parameter Efficient Fine-Tuning using scPEFT. ***Nature Machine Intelligence*** [link](https://doi.org/10.1038/s42256-025-01170-z)
 
 2. **Fei He**, Ruixin Fei, Mingyue Gao, Li Su, Xinyu Zhang, Dong Xu.
 Parameter-Efficient Fine-Tuning Enhances Adaptation of Single Cell Large Language Model for Cell Type Identification.
