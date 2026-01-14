@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* January 2023 – present: Graduate Research
+* January 2023 – December 2025: Graduate Research
   * Department of Electrical Engineering and Computer Science, College of Engineering
   * University of Missouri-Columbia
   * Advisor: [Dong Xu](https://engineering.missouri.edu/faculty/dong-xu/)
